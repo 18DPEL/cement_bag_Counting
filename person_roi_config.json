@@ -1,0 +1,13 @@
+{
+  "roi": [
+    21,
+    249,
+    230,
+    340
+  ],
+  "roi_rotation": 319.84400037508067,
+  "axis": "y",
+  "forward_positive": true,
+  "in_count": 0,
+  "out_count": 0
+}

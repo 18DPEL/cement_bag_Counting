@@ -1,0 +1,11 @@
+{
+  "roi": [
+    234,
+    319,
+    503,
+    381
+  ],
+  "axis": "y",
+  "forward_positive": true,
+  "target_count": 0
+}
